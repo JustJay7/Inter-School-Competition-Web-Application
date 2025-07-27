@@ -1,0 +1,2 @@
+# Inter-School-Event-Web-Application
+A full-stack ASP.NET Web Forms application for managing inter-school competitions. Built using C#, SQL Server/MySQL, ADO.NET, and JavaScript with a 3-tier architecture. Features include role-based access, real-time leaderboard, participant registration, score input, and school feedback. Developed in Visual Studio with MockFlow UI designs and Visual Paradigm UML diagrams.
