@@ -48,13 +48,21 @@ Built using ASP.NET Web Forms, C#, and SQL, ISCWA simplifies outdated paper-base
 ## Project Structure
 
 ```bash
-ISCWA/
-├── App_Code/                # C# classes (UserClass, AdminClass, etc.)
-├── .aspx Pages              # UI pages for each user role
-├── SQL_Scripts/             # Table creation & stored procedures
-├── bin/                     # Compiled DLLs
-├── Web.config               # DB connection string & settings
-└── README.md                # Project documentation
+ISEWA/
+├── App_Data/                          # Local DB
+├── Content/                           # Static styles (CSS/images)
+├── DataAccess/                        # All .cs classes (AdminClass, UserClass, etc.)
+├── ISEWA/                             # All .aspx pages + .cs + .designer.cs
+├── Scripts/                           # Custom JS files (validations)
+├── Tests/ and UnitTesting/            # Unit test classes for every function
+├── SQLQueries.sql                     # Creates DB/tables
+├── Web.config                         # Must-have for DB connections
+├── ISEWA.sln                          # Main solution file
+├── ISEWA.csproj                       # Project definition
+├── packages.config                    # NuGet dependencies
+├── README.md                          # GitHub documentation
+├── Icons.png                          # UI assets
+
 ```
 
 ---
