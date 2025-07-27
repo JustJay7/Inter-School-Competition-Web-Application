@@ -1,0 +1,393 @@
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\testhost.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\testhost.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\App.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.dll.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.deps.json
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.runtimeconfig.json
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Platform.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Platform.MSBuild.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\WebDriver.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.dll.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.dll.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.AssemblyInfo.cs
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.CopyComplete
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\refint\Tests.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\Tests\obj\Debug\net7.0\ref\Tests.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\testhost.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\testhost.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\App.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Icons\Competition Icon.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.dll.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.deps.json
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.runtimeconfig.json
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Tests.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Platform.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Testing.Platform.MSBuild.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\WebDriver.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Data.SqlClient.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Web.Optimization.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.AspNet.FriendlyUrls.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\DataAccess.dll.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\ISEWA.dll.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\System.Web.Optimization.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\bin\Debug\net7.0\Microsoft.AspNet.FriendlyUrls.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.AssemblyReference.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.AssemblyInfoInputs.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.AssemblyInfo.cs
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.CoreCompileInputs.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.csproj.Up2Date
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\refint\Tests.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\Tests\obj\Debug\net7.0\ref\Tests.dll

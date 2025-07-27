@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\ISEWA\\ISEWA.csproj": {
+      "restore": {
+        "projectUniqueName": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\ISEWA\\ISEWA.csproj",
+        "projectName": "ISEWA",
+        "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\ISEWA\\ISEWA.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+        "outputPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\DataAccess\\DataAccess.csproj"
+              },
+              "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\ISEWA\\ISEWA.csproj": {
+                "projectPath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\ISEWA\\ISEWA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.19.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[124.0.6367.6000, )"
+            },
+            "Selenium.WebDriver.MSEdgeDriver": {
+              "target": "Package",
+              "version": "[123.0.2420.65, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

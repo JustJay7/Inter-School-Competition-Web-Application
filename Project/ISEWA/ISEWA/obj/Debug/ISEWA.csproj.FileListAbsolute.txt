@@ -1,0 +1,291 @@
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\app.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ISEWA.dll.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ISEWA.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ISEWA.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csi.exe.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Globalization.Calendars.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Net.Http.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Net.Sockets.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\DataAccess.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\MySqlConnector.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Buffers.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Memory.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\WebGrease.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\DataAccess.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\DataAccess.dll.config
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.Extensions.Logging.Abstractions.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\MySqlConnector.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Buffers.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Data.SqlClient.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Memory.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.CopyComplete
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\obj\Debug\ISEWA.dll
+\\Mac\Home\Desktop\Compressed Folder_jpc740\Product\ISEWA\ISEWA\obj\Debug\ISEWA.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\app.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ISEWA.dll.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ISEWA.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ISEWA.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csc.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csc.exe.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csc.rsp
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csi.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csi.exe.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\csi.rsp
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\Microsoft.Win32.Primitives.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.AppContext.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Collections.Immutable.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Console.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Globalization.Calendars.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.IO.Compression.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.IO.Compression.ZipFile.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.IO.FileSystem.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Net.Http.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Net.Sockets.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.ValueTuple.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XPath.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\vbc.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\vbc.exe.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\vbc.rsp
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\VBCSCompiler.exe
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\roslyn\VBCSCompiler.exe.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Antlr3.Runtime.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\AspNet.ScriptManager.bootstrap.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\AspNet.ScriptManager.jQuery.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\DataAccess.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.FriendlyUrls.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.ScriptManager.MSAjax.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.ScriptManager.WebForms.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Web.Infrastructure.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\MySqlConnector.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Newtonsoft.Json.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Buffers.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Data.SqlClient.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Memory.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Numerics.Vectors.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Threading.Tasks.Extensions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Web.Optimization.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\WebGrease.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\DataAccess.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\DataAccess.dll.config
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Extensions.Logging.Abstractions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\MySqlConnector.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Buffers.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Memory.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Numerics.Vectors.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Threading.Tasks.Extensions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Web.Optimization.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Newtonsoft.Json.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Antlr3.Runtime.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.AspNet.FriendlyUrls.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.AssemblyReference.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.CoreCompileInputs.cache
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\obj\Debug\ISEWA.csproj.Up2Date
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\obj\Debug\ISEWA.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\obj\Debug\ISEWA.pdb
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Azure.Core.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Azure.Identity.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Data.SqlClient.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Identity.Client.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Abstractions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Logging.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Protocols.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Tokens.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.ClientModel.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Configuration.ConfigurationManager.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.IdentityModel.Tokens.Jwt.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.IO.FileSystem.AccessControl.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Memory.Data.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.AccessControl.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Cryptography.ProtectedData.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Permissions.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Principal.Windows.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Text.Encodings.Web.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Text.Json.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.ValueTuple.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Azure.Core.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Azure.Identity.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Data.SqlClient.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Identity.Client.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Abstractions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Logging.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Protocols.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Microsoft.IdentityModel.Tokens.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.ClientModel.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Configuration.ConfigurationManager.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.IdentityModel.Tokens.Jwt.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.IO.FileSystem.AccessControl.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Memory.Data.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.AccessControl.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Cryptography.ProtectedData.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Permissions.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Security.Principal.Windows.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Text.Encodings.Web.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Text.Json.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.ValueTuple.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ja\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\it\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ru\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\de\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\ko\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\fr\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\es\Microsoft.Data.SqlClient.resources.dll
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\System.Data.SqlClient.xml
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Competition Icon.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Admin.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Event Coordinator.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Feedback.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Finger Point.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\Male User.png
+Z:\Desktop\Mac\SPM_Project\Product\ISEWA\ISEWA\bin\Icons\School.png
