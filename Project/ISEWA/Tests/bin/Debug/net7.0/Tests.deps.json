@@ -14,22 +14,15 @@
           "MSTest.TestFramework": "3.3.1",
           "Microsoft.NET.Test.Sdk": "17.9.0",
           "Selenium.WebDriver": "4.19.0",
-          "Selenium.WebDriver.ChromeDriver": "124.0.6367.6000",
-          "Selenium.WebDriver.MSEdgeDriver": "123.0.2420.65",
           "System.Configuration.ConfigurationManager": "8.0.1",
           "System.Data.SqlClient": "4.9.0",
-          "coverlet.collector": "3.1.2",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
           "Tests.dll": {}
         }
       },
-      "coverlet.collector/3.1.2": {},
       "Microsoft.ApplicationInsights/2.22.0": {
-        "dependencies": {
-          "System.Diagnostics.DiagnosticSource": "5.0.0"
-        },
         "runtime": {
           "lib/netstandard2.0/Microsoft.ApplicationInsights.dll": {
             "assemblyVersion": "2.22.0.997",
@@ -272,9 +265,6 @@
         }
       },
       "Microsoft.TestPlatform.ObjectModel/17.9.0": {
-        "dependencies": {
-          "System.Reflection.Metadata": "1.6.0"
-        },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
@@ -625,8 +615,6 @@
           }
         }
       },
-      "Selenium.WebDriver.ChromeDriver/124.0.6367.6000": {},
-      "Selenium.WebDriver.MSEdgeDriver/123.0.2420.65": {},
       "System.Configuration.ConfigurationManager/8.0.1": {
         "dependencies": {
           "System.Diagnostics.EventLog": "8.0.1",
@@ -664,7 +652,6 @@
           }
         }
       },
-      "System.Diagnostics.DiagnosticSource/5.0.0": {},
       "System.Diagnostics.EventLog/8.0.1": {
         "runtime": {
           "lib/net7.0/System.Diagnostics.EventLog.dll": {
@@ -687,7 +674,6 @@
           }
         }
       },
-      "System.Reflection.Metadata/1.6.0": {},
       "System.Security.Cryptography.ProtectedData/8.0.0": {
         "runtime": {
           "lib/net7.0/System.Security.Cryptography.ProtectedData.dll": {
@@ -699,7 +685,7 @@
       "DataAccess/1.0.0": {
         "runtime": {
           "DataAccess.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -710,7 +696,7 @@
         },
         "runtime": {
           "ISEWA.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -720,6 +706,22 @@
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
             "assemblyVersion": "14.0.0.0",
             "fileVersion": "3.300.124.20402"
+          }
+        }
+      },
+      "itextsharp/5.5.13.4": {
+        "runtime": {
+          "itextsharp.dll": {
+            "assemblyVersion": "5.5.13.4",
+            "fileVersion": "5.5.13.4"
+          }
+        }
+      },
+      "DotNetZip/1.16.0.0": {
+        "runtime": {
+          "DotNetZip.dll": {
+            "assemblyVersion": "1.16.0.0",
+            "fileVersion": "1.16.0.0"
           }
         }
       },
@@ -739,11 +741,11 @@
           }
         }
       },
-      "Microsoft.Web.Infrastructure/1.0.0.0": {
+      "BouncyCastle.Cryptography/2.0.0.0": {
         "runtime": {
-          "Microsoft.Web.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.20105.407"
+          "BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.0.33771"
           }
         }
       }
@@ -754,13 +756,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "coverlet.collector/3.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
-      "path": "coverlet.collector/3.1.2",
-      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
     },
     "Microsoft.ApplicationInsights/2.22.0": {
       "type": "package",
@@ -888,20 +883,6 @@
       "path": "selenium.webdriver/4.19.0",
       "hashPath": "selenium.webdriver.4.19.0.nupkg.sha512"
     },
-    "Selenium.WebDriver.ChromeDriver/124.0.6367.6000": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-yQ05VeigCdrPGs6Urxj5R2gxvxTLgWmPM4SX1xy/w+dq7e+ZljgkpNq5hrxxFQ2WDng55KmXmlG0qctt7VA5eQ==",
-      "path": "selenium.webdriver.chromedriver/124.0.6367.6000",
-      "hashPath": "selenium.webdriver.chromedriver.124.0.6367.6000.nupkg.sha512"
-    },
-    "Selenium.WebDriver.MSEdgeDriver/123.0.2420.65": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9TzCoET+YE1afrdyASmMCqIXkNSs1NQOpLjX/zwKWChLDR2ExFSmDzpXZ3UQZ77pQuhQi4XOP+gAiRTWyLqEVQ==",
-      "path": "selenium.webdriver.msedgedriver/123.0.2420.65",
-      "hashPath": "selenium.webdriver.msedgedriver.123.0.2420.65.nupkg.sha512"
-    },
     "System.Configuration.ConfigurationManager/8.0.1": {
       "type": "package",
       "serviceable": true,
@@ -916,26 +897,12 @@
       "path": "system.data.sqlclient/4.9.0",
       "hashPath": "system.data.sqlclient.4.9.0.nupkg.sha512"
     },
-    "System.Diagnostics.DiagnosticSource/5.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-tCQTzPsGZh/A9LhhA6zrqCRV4hOHsK90/G7q3Khxmn6tnB1PuNU0cRaKANP2AWcF9bn0zsuOoZOSrHuJk6oNBA==",
-      "path": "system.diagnostics.diagnosticsource/5.0.0",
-      "hashPath": "system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
-    },
     "System.Diagnostics.EventLog/8.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-n1ZP7NM2Gkn/MgD8+eOT5MulMj6wfeQMNS2Pizvq5GHCZfjlFMXV2irQlQmJhwA2VABC57M0auudO89Iu2uRLg==",
       "path": "system.diagnostics.eventlog/8.0.1",
       "hashPath": "system.diagnostics.eventlog.8.0.1.nupkg.sha512"
-    },
-    "System.Reflection.Metadata/1.6.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
-      "path": "system.reflection.metadata/1.6.0",
-      "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
     "System.Security.Cryptography.ProtectedData/8.0.0": {
       "type": "package",
@@ -959,6 +926,16 @@
       "serviceable": false,
       "sha512": ""
     },
+    "itextsharp/5.5.13.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetZip/1.16.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "System.Web.Optimization/1.1.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -969,7 +946,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.Web.Infrastructure/1.0.0.0": {
+    "BouncyCastle.Cryptography/2.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W1Vvm+Q/3JE=",
+  "dgSpecHash": "FMqFEDgSkNY=",
   "success": true,
-  "projectFilePath": "Z:\\Desktop\\Mac\\SPM_Project\\Product\\ISEWA\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\ISEWA\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jay\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\jay\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
