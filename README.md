@@ -65,7 +65,7 @@ ISCWA/
 
 - Visual Studio 2019 or later
 - .NET Framework 4.8 (Minimum 4.5)
-- SQL Server Management Studio (or MySQL Workbench via Docker for Mac)
+- SQL Server Management Studio (via Docker for Mac)
 - Git (for source control)
 - NuGet Packages to install via Package Manager:
     ```bash
@@ -98,7 +98,7 @@ git clone https://github.com/your-username/ISCWA.git
 1. Install Parallels Desktop and create a Windows 10/11 VM
 2. Inside the VM:
    - Install Visual Studio with .NET Framework 4.8 development tools
-   - Install SQL Server Management Studio
+   - Install SQL Server Management Studio 2022 v18
 3. On your macOS (host system), install Docker Desktop for Mac
 4. Open Terminal on macOS and run:
    ```bash
